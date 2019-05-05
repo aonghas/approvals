@@ -1,0 +1,129 @@
+{
+  "value": [
+    {
+      "BusinessOwner": [
+        {
+          "Title": "Anderson, Aonghas, Vodafone Group",
+          "EMail": "aonghas.anderson1@vodafone.com",
+          "ID": 10
+        }
+      ],
+      "ProductManager": [
+        {
+          "Title": "Anderson, Aonghas, Vodafone Group",
+          "EMail": "aonghas.anderson1@vodafone.com",
+          "ID": 10
+        }
+      ],
+      "ProductOwner": [
+        {
+          "Title": "Adams, Simon, Vodafone Group",
+          "EMail": "Simon.Adams@vodafone.com",
+          "ID": 21
+        }
+      ],
+      "ScrumMaster": [
+        {
+          "Title": "Wilson, Marcus, Vodafone Group",
+          "EMail": "marcus.wilson@vodafone.com",
+          "ID": 12
+        }
+      ],
+      "BusinessUser": [
+        {
+          "Title": "Anderson, Aonghas, Vodafone Group",
+          "EMail": "aonghas.anderson1@vodafone.com",
+          "ID": 10
+        }
+      ],
+      "BusinessChangeManager": [
+        {
+          "Title": "Anderson, Aonghas, Vodafone Group",
+          "EMail": "aonghas.anderson1@vodafone.com",
+          "ID": 10
+        }
+      ],
+      "Id": 5,
+      "Title": "Feature B",
+      "Stage": "Vision",
+      "Description": "Another description Another description Another description Another description Another description Another description Another description Another description Another description \n",
+      "PendingApprovals": -1.0,
+      "ApprovalState": "Not Yet Required",
+      "JiraID": "ADAM-12333",
+      "ID": 5,
+      "Modified": "2019-05-01T15:56:34Z",
+      "Created": "2019-04-29T15:03:16Z"
+    },
+    {
+      "BusinessOwner": [
+        {
+          "Title": "Anderson, Aonghas, Vodafone Group",
+          "EMail": "aonghas.anderson1@vodafone.com",
+          "ID": 10
+        }
+      ],
+      "ProductManager": [
+        {
+          "Title": "Anderson, Aonghas, Vodafone Group",
+          "EMail": "aonghas.anderson1@vodafone.com",
+          "ID": 10
+        },
+        {
+          "Title": "Quinlan, Sam, Vodafone Group",
+          "EMail": "Sam.Quinlan@Vodafone.Com",
+          "ID": 23
+        }
+      ],
+      "ProductOwner": [
+        {
+          "Title": "Anderson, Aonghas, Vodafone Group",
+          "EMail": "aonghas.anderson1@vodafone.com",
+          "ID": 10
+        }
+      ],
+      "ScrumMaster": [
+        {
+          "Title": "Wilson, Marcus, Vodafone Group",
+          "EMail": "marcus.wilson@vodafone.com",
+          "ID": 12
+        }
+      ],
+      "BusinessUser": [
+        {
+          "Title": "Adams, Simon, Vodafone Group",
+          "EMail": "Simon.Adams@vodafone.com",
+          "ID": 21
+        }
+      ],
+      "BusinessChangeManager": [
+        {
+          "Title": "Adams, Simon, Vodafone Group",
+          "EMail": "Simon.Adams@vodafone.com",
+          "ID": 21
+        },
+        {
+          "Title": "Anderson, Aonghas, Vodafone Group",
+          "EMail": "aonghas.anderson1@vodafone.com",
+          "ID": 10
+        }
+      ],
+      "ChangeAgent": [
+        {
+          "Title": "Wilson, Marcus, Vodafone Group",
+          "EMail": "marcus.wilson@vodafone.com",
+          "ID": 12
+        }
+      ],
+      "Id": 4,
+      "Title": "This is the title of a feature",
+      "Stage": "Vision",
+      "Description": "Here's a description Here's a description Here's a description Here's a description Here's a description Here's a description Here's a description Here's a description Here's a description Here's a description \n",
+      "PendingApprovals": -1.0,
+      "ApprovalState": "Not Yet Required",
+      "JiraID": "ADAM-12345",
+      "ID": 4,
+      "Modified": "2019-05-02T09:25:57Z",
+      "Created": "2019-04-29T14:07:51Z"
+    }
+  ]
+}
